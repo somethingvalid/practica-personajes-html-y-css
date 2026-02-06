@@ -73,6 +73,7 @@ main a{
     float: left;
     margin-left: 33px;
     padding: 30px;
+    border-radius: 20px;
    
 }
 .info h3{
@@ -110,5 +111,6 @@ nav a:hover{
     background-color: rgb(15, 84, 144);
     transform: scale(1.5);
     font-weight: bolder;
+
 
 }
